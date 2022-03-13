@@ -1,0 +1,39 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    overflow: hidden;
+}
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.name{
+    text-align: center;
+    justify-content: center;
+    margin-top: 15cm;
+}
+.name1{
+    font-size: 150px;
+    color: darkgoldenrod;
+    font-family: 'Dancing Script', cursive;
+}
+.dob{
+    font-size: 100px;
+    color: darkblue;
+    font-family: 'Dancing Script', cursive;
+}
+.para{
+    font-size: 70px;
+    color: brown;
+    font-family: 'Dancing Script', cursive;
+}
+.patt{
+    font-size: 120px;
+    color: darkgoldenrod;
+}
